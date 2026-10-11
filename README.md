@@ -1,39 +1,58 @@
-# Kedai Laju
+# 🍗 Kedai Laju — Cepat Saji, Rasa Dekat
 
-> Landing page sederhana untuk restoran cepat saji lokal di Kota Rimbun. Dibuat dengan HTML, CSS, dan JavaScript vanilla tanpa framework atau proses build.
+Kedai Laju adalah website landing page yang menampilkan pengalaman kuliner cepat saji modern dengan konsep hangat, ramah, dan menggugah selera. Dirancang untuk menciptakan kesan yang kuat sejak pertama kali dilihat, mulai dari hero section, menu favorit, cerita brand, hingga ajakan untuk datang langsung ke lokasi.
 
-## Pratinjau
+🚀 Live demo: https://kedai-laju.vercel.app/
 
-Halaman ini menampilkan menu unggulan, cerita restoran, alamat dan jam buka, serta tombol pemesanan melalui WhatsApp. Layout-nya responsif untuk desktop dan ponsel.
+## ✨ Highlights
 
-## Menjalankan secara lokal
+- Desain modern dan responsif untuk desktop maupun mobile
+- Tampilan menu yang menarik dan mudah dibaca
+- Hero section yang kuat dan siap dibagikan
+- Informasi lokasi, jam buka, dan CTA pemesanan yang jelas
+- Brand identity sederhana namun berkesan
 
-1. Unduh atau clone repository ini.
-2. Buka `index.html` di browser.
+## 🍔 Menu Unggulan
 
-Tidak perlu instalasi dependensi atau menjalankan server development.
+- Ayam Renyah
+- Burger Juicy
+- Kentang Hangat
+- Sambal Racik
 
-## Struktur file
-
-| File | Kegunaan |
-| --- | --- |
-| `index.html` | Struktur dan konten halaman |
-| `styles.css` | Gaya visual dan layout responsif |
-| `script.js` | Interaksi menu navigasi pada layar kecil |
-
-## Sesuaikan untuk restoran Anda
-
-- Ubah alamat, jam buka, nama menu, dan harga di `index.html`.
-- Ganti nomor pada tautan WhatsApp `wa.me` dengan nomor restoran dalam format internasional tanpa tanda `+` atau spasi.
-- Ganti tautan Google Maps dengan alamat yang benar.
-- Ganti foto contoh dengan foto restoran atau produk Anda.
-
-## Teknologi
+## 🛠️ Teknologi
 
 - HTML5
 - CSS3
-- JavaScript vanilla
+- JavaScript
+- Vercel
 
-## Catatan
+## 🚀 Cara Menjalankan
 
-Nama, lokasi Kota Rimbun, alamat, harga, nomor WhatsApp, dan foto yang digunakan saat ini adalah contoh.
+1. Clone repository ini:
+```bash
+git clone https://github.com/FarhanFansuri2002/kedai-laju.git
+```
+
+2. Masuk ke folder proyek:
+```bash
+cd kedai-laju
+```
+
+3. Buka file `index.html` di browser, atau jalankan local server jika diperlukan:
+```bash
+python -m http.server 8000
+```
+
+4. Buka `http://localhost:8000` di browser.
+
+## 📍 Tentang Proyek
+
+Proyek ini dibuat untuk menampilkan identitas Kedai Laju sebagai tempat favorit bagi pecinta makanan cepat saji dengan rasa yang konsisten, pelayanan yang hangat, dan pengalaman kuliner yang menyenangkan.
+
+## 🙌 Developer
+
+Dibuat oleh Farhan Fansuri
+
+## 🌐 Live Preview
+
+https://kedai-laju.vercel.app/
