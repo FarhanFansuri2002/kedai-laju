@@ -5,7 +5,7 @@ Kedai Laju adalah website landing page yang menampilkan pengalaman kuliner cepat
 🚀 Live demo: https://kedai-laju.vercel.app/
 
 ## Image Live
-![Deskripsi gambar](./assets/logo.png)
+![Deskripsi gambar](./gambar.png)
 
 ## ✨ Highlights
 
